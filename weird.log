@@ -1,0 +1,23 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	weird
+#open	2026-04-09-09-47-34
+#fields	ts	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	name	addl	notice	peer	source
+#types	time	string	addr	port	addr	port	string	string	bool	string	string
+1295460719.669002	Ce0g7t36c6YQX3C0c5	192.168.111.20	54092	65.55.158.118	3544	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460719.669698	CTHySn4IHqZ1iJKtu7	192.168.111.20	54092	96.229.208.216	52918	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460730.281508	C656Pf2JCShotHCnLe	87.202.22.146	55140	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460731.602743	CF8aht2pADtSSWnjQ6	94.159.168.163	53855	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460733.437250	CFy9dd2FirKIeONRzb	70.48.208.171	49398	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460735.069439	C9NNUTl2epZdg5nKj	173.198.118.97	54035	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460741.989530	CdhEFh1ODebdCXjqSl	88.113.37.233	65195	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460743.611320	CPfj8j2v3mFyJKTrya	192.168.111.20	54092	174.52.241.225	55832	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460747.075799	ChosCt4LIwQsixZeqg	79.131.24.10	55526	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460747.076003	C512p94PMGqrZCqHS7	192.168.111.20	54092	94.245.121.253	3544	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460750.309432	CA0Yw23NOGRokDn6ke	192.168.111.20	54092	94.12.190.82	49594	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460758.570094	CqUwIX2iSCE3PbEh37	89.241.5.220	53361	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460761.012510	Ci0Yzs11ZvmHTQp9xf	78.224.123.229	62902	192.168.111.20	54092	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+1295460767.791778	CNQmXtFq0TwI25Ct6	192.168.111.20	54092	91.140.91.82	50453	Teredo_bubble_with_payload	-	F	zeek	TEREDO
+#close	2026-04-09-09-47-35

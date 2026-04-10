@@ -1,0 +1,15 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	files
+#open	2026-04-09-09-47-34
+#fields	ts	fuid	uid	id.orig_h	id.orig_p	id.resp_h	id.resp_p	source	depth	analyzers	mime_type	filename	duration	local_orig	is_orig	seen_bytes	total_bytes	missing_bytes	overflow_bytes	timedout	parent_fuid	md5	sha1	sha256	extracted	extracted_cutoff	extracted_size
+#types	time	string	string	addr	port	addr	port	string	count	set[string]	string	string	interval	bool	bool	count	count	count	count	bool	string	string	string	string	string	bool	count
+1295460719.846035	Fdd97U3rj045GRwtnf	C21MxI2sQ52XE8ltP4	192.168.111.20	53507	85.17.121.160	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	84	84	0	0	F	-	-	-	-	-	-	-
+1295460722.907318	F5iZPy3stmOZIqi6se	CLtVh64CGYXylQ0YTf	192.168.111.20	53515	94.228.210.86	6969	HTTP	0	(empty)	text/plain	-	0.000000	F	F	118	118	0	0	F	-	-	-	-	-	-	-
+1295460724.814045	Fo4ObUocfyJy3OMug	CfciUp1ryjGyjNJjV	192.168.111.20	53508	95.211.88.49	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	172	172	0	0	F	-	-	-	-	-	-	-
+1295460724.889220	F7lxxcLh6ZlPvG9yj	CuOOQt45p9wkt771Rk	192.168.111.20	53519	94.228.210.41	6969	HTTP	0	(empty)	text/plain	-	0.000000	F	F	136	136	0	0	F	-	-	-	-	-	-	-
+1295460724.916454	F54TNi4sUBCYWXburl	C8aF5G3TEQKl7TJH3e	192.168.111.20	53524	192.121.121.30	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	123	123	0	0	F	-	-	-	-	-	-	-
+1295460726.816690	FiaWJa3GOCgq1PzsZ9	CnEreP3F7ZxchSEVUe	192.168.111.20	53534	85.17.121.160	80	HTTP	0	(empty)	text/plain	-	0.000000	F	F	331	331	0	0	F	-	-	-	-	-	-	-
+#close	2026-04-09-09-47-35
