@@ -1,0 +1,9 @@
+# Zeek generated log files
+*.log
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
