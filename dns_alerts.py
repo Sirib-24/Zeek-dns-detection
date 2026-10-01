@@ -8,11 +8,11 @@ with open("dns.log") as f:
 		fields = line.strip().split("\t")
 		if len(fields) < 8:
 			continue
-		query = fields[7]
+		query = fields[9]
 
 		for pattern in suspicious_patterns:
 			if pattern in query:
 				print(f"Suspicious DNS query detected: {query}")
 				found = True
 if not found:
-	print("No suspicious DNS queries detected in this PCAP")
+	print("No suspicious DNS queries detected.")
